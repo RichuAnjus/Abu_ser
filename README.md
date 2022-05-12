@@ -20,7 +20,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/bjlbGCZ.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/Ja5gZ7m.jpeg" alt="GIF" width="300" height="270"/>
 </p>
 
   <p align="center">
@@ -28,7 +28,7 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Richu ser
     <br>
        | © |
         Reserved |
