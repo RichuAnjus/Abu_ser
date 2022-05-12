@@ -20,7 +20,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://i.imgur.com/Ja5gZ7m.jpeg" alt="GIF" width="300" height="270"/>
+<img src="https://i.imgur.com/bjlbGCZ.jpg" alt="GIF" width="300" height="270"/>
 </p>
 
   <p align="center">
@@ -28,7 +28,7 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Richu ser
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
     <br>
        | © |
         Reserved |
@@ -49,7 +49,7 @@
 4. Click [FORK](https://github.com/Afx-Abu/Abu_ser/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/Afx-Abu/Abu_ser
+https://heroku.com/deploy?template=https://github.com/RichuAnjus/Abu_ser
 ``` 
 6. Now change Afx-Abu with your github username and click ENJOY<br>
    <br>
